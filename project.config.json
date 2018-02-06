@@ -8,7 +8,7 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "1.7.2",
+	"libVersion": "1.9.1",
 	"appid": "wx938e0953d791b227",
 	"projectname": "nideshop",
 	"condition": {
